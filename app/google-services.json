@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "189316700268",
+    "project_id": "firestoreroom",
+    "storage_bucket": "firestoreroom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189316700268:android:709f30440620e99e0ee049",
+        "android_client_info": {
+          "package_name": "com.abdallah.firestoreroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189316700268-vnnuem11ibrp5dll70uera37uh1lc9c0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClxJVG9clINRZldUrxiX3f-avGWQ7hLiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189316700268-vnnuem11ibrp5dll70uera37uh1lc9c0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
